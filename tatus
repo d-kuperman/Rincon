@@ -1,0 +1,47 @@
+[33mcommit e8fc6165425952656d2f4084987a3d3d4a97aafe[m[33m ([m[1;36mHEAD -> [m[1;32mEscalando_todo[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Daniel <Danielkuperman@gmail.com>
+Date:   Sat Jun 6 06:11:22 2020 -0300
+
+    Etapa Modelado.
+    Se asignaron los grupos de vertices a los libros que les faltaba. Se agregaron libros a la estantería.
+    Etapa Texturizado:
+    Se desarrolló la textura de hojas de los bordes de los libros, de manera procedural. Se le dio aleatoriedad de colores. Material.hojas.027.
+
+[33mcommit 4527d93d17b5cdd0df0ff9c02ada97654724eec2[m
+Author: Daniel <Danielkuperman@gmail.com>
+Date:   Fri Jun 5 04:31:47 2020 -0300
+
+    Etapa texturizado.
+    Completados 4 estantes de libros todos texturizados.
+    Se aplicó textura al piso y a la biblioteca.
+    En ambos aún no se agregaron detalles ni se corrigieron las uvs en caso de la biblioteca.
+
+[33mcommit edeeb80549fd54d0dd86cde20c4d8513a491d1e6[m
+Author: Daniel <Danielkuperman@gmail.com>
+Date:   Thu Jun 4 04:23:37 2020 -0300
+
+    Etapa Texturizado.
+    Se avanzó con el teturizado de los libros. 4 realizados correctamente.
+    Se hicieron todos los mapas de las normales de las 25 tapas de libros.
+    Faltan normales de varias tapas de otras descargas.
+
+[33mcommit 755127a1a83a21e814fd15436e2fa328c7174344[m
+Author: Daniel <Danielkuperman@gmail.com>
+Date:   Wed Jun 3 20:38:17 2020 -0300
+
+    Etapa texturizado.
+    Se completó el texturizado del primer libro del primer estante. Se realizó el mapa de normales en Gimp a partir de la textura.Resta agregar detalle a las hojas (no se ven en este libro pero si en otros).
+
+[33mcommit ec9397c8d4e1c9ad5a267e9a7ad36d9b0aff0ff6[m
+Author: Daniel <Danielkuperman@gmail.com>
+Date:   Wed Jun 3 06:24:55 2020 -0300
+
+    Etapa modelado. Completados los libros hasta el 9no estante. Se deja el 8vo libre para poner un libro abierto en el medio y cerrados inclinados a los costados.
+    
+    bookgen funciona bien siempre y cuando se lo maneje sin modificar los elementos últimos de su menú.
+
+[33mcommit fe2fbdd10c931e3ff9d0221731f798202f5ae8ab[m
+Author: Daniel <Danielkuperman@gmail.com>
+Date:   Wed Jun 3 05:18:28 2020 -0300
+
+    Primer commit. Etapa modelado. Completados los libros del  4to estante de la libreria. Se prueba con bookgen pero falla.
